@@ -1,0 +1,8 @@
+label			
+others		99	6367	0
+disgust		63	4204	1
+repression	27	2187	2
+happiness	32	2360	3
+surprise	25	1605	4
+fear		2	127	
+sadness		7	274	
